@@ -1,6 +1,6 @@
 # Database
 
 ## SQL
-- [University - DDL](http://fondinfo.github.io/database/university-ddl.sql)
-- [University - insert data](http://fondinfo.github.io/database/university-insert.sql)
-- [University - query](http://fondinfo.github.io/database/university-ql.sql)
+- [University - DDL](https://fondinfo.github.io/database/university-ddl.sql)
+- [University - insert data](university-insert.sql)
+- [University - query](https://fondinfo.github.io/database/university-ql.sql)
