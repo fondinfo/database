@@ -5,12 +5,19 @@
 - [University - insert data](https://github.com/fondinfo/database/blob/main/university-insert.sql)
 - [University - query](https://github.com/fondinfo/database/blob/main/university-ql.sql)
 
-## Python - SQL
-- [Python SQL - DDL](https://github.com/fondinfo/database/blob/main/python_sql_DDL.py)
-- [Python SQL - DML](https://github.com/fondinfo/database/blob/main/python_sql_DML.py)
-- [Python SQL - QL-1](https://github.com/fondinfo/database/blob/main/python_sql_QL-1.py)
-- [Python SQL - QL-2](https://github.com/fondinfo/database/blob/main/python_sql_QL-2.py)
-- [Python SQL - QL-3](https://github.com/fondinfo/database/blob/main/python_sql_QL-3.py)
+## Python - SQLite
+- [Python SQLite - DDL](https://github.com/fondinfo/database/blob/main/python_SQLite_DDL.py)
+- [Python SQLite - DML](https://github.com/fondinfo/database/blob/main/python_SQLite_DML.py)
+- [Python SQLite - QL-1](https://github.com/fondinfo/database/blob/main/python_SQLite_QL-1.py)
+- [Python SQLite - QL-2](https://github.com/fondinfo/database/blob/main/python_SQLite_QL-2.py)
+- [Python SQLite - QL-3](https://github.com/fondinfo/database/blob/main/python_SQLite_QL-3.py)
+
+## Python - mySQL
+- [Python mySQL - DDL](https://github.com/fondinfo/database/blob/main/python_sql_DDL.py)
+- [Python mySQL - DML](https://github.com/fondinfo/database/blob/main/python_sql_DML.py)
+- [Python mySQL - QL-1](https://github.com/fondinfo/database/blob/main/python_sql_QL-1.py)
+- [Python mySQL - QL-2](https://github.com/fondinfo/database/blob/main/python_sql_QL-2.py)
+- [Python mySQL - QL-3](https://github.com/fondinfo/database/blob/main/python_sql_QL-3.py)
 
 ## Python - NoSQL
 - [Python NoSQL 00](https://github.com/fondinfo/database/blob/main/python_mongodb_00.py)
