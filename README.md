@@ -13,9 +13,7 @@
 ## Python - mySQL
 - [Python mySQL - DDL](https://github.com/fondinfo/database/blob/main/python_sql_DDL.py)
 - [Python mySQL - DML](https://github.com/fondinfo/database/blob/main/python_sql_DML.py)
-- [Python mySQL - QL-1](https://github.com/fondinfo/database/blob/main/python_sql_QL-1.py)
-- [Python mySQL - QL-2](https://github.com/fondinfo/database/blob/main/python_sql_QL-2.py)
-- [Python mySQL - QL-3](https://github.com/fondinfo/database/blob/main/python_sql_QL-3.py)
+- [Python mySQL - QL](https://github.com/fondinfo/database/blob/main/python_sql_QL.py)
 
 ## Python - NoSQL
 - [Python NoSQL 00](https://github.com/fondinfo/database/blob/main/python_mongodb_00.py)
