@@ -8,9 +8,7 @@
 ## Python - SQLite
 - [Python SQLite - DDL](https://github.com/fondinfo/database/blob/main/python_SQLite3_DDL.py)
 - [Python SQLite - DML](https://github.com/fondinfo/database/blob/main/python_SQLite3_DML.py)
-- [Python SQLite - QL-1](https://github.com/fondinfo/database/blob/main/python_SQLite3_QL-1.py)
-- [Python SQLite - QL-2](https://github.com/fondinfo/database/blob/main/python_SQLite3_QL-2.py)
-- [Python SQLite - QL-3](https://github.com/fondinfo/database/blob/main/python_SQLite3_QL-3.py)
+- [Python SQLite - QL](https://github.com/fondinfo/database/blob/main/python_SQLite3_QL.py)
 
 ## Python - mySQL
 - [Python mySQL - DDL](https://github.com/fondinfo/database/blob/main/python_sql_DDL.py)
