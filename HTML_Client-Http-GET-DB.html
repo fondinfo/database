@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Client http - GET example</title>
+</head>
+<body>
+
+<h1>Form (GET method)</h1>
+
+<form onsubmit="inviaForm(event)">
+    <label for="name">Teacher name:</label>
+    <input type="text" id="name" name="name" required>
+    <button type="submit">Send</button>
+</form>
+
+<p><strong>Data from server:</strong></p>
+<pre id="courses"></pre>
+
+<script>
+function inviaForm(event) {
+    event.preventDefault();
+
+    // Get the value of the "name" parameter
+    var nome = document.getElementById('name').value;
+
+    // Set URL with parameter "name"
+    var url = `http://localhost:8000/?name=${encodeURIComponent(nome)}`;
+    // Make a GET request
+    var req = new XMLHttpRequest();
+    req.open('GET', url, true);
+    req.send()
+
+    req.onload = function () {
+        if (req.status >= 200 && req.status < 400) {
+            // var risp = req.responseText;
+            document.getElementById("courses").innerHTML = req.responseText;
+        } else {
+            document.getElementById("courses").innerHTML = "Request error";
+        }
+    };
+
+    req.onerror = function () {
+        document.getElementById("courses").innerHTML = "Error. Status code: "+req.status;
+    };
+}
+</script>
+
+</body>
+</html>
