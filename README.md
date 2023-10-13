@@ -25,5 +25,6 @@
 - [Python NoSQL 06](https://github.com/fondinfo/database/blob/main/python_mongodb_06.py)
 
 ## HTTP client - server - db
-- [Python_Client-Http-Db](https://github.com/fondinfo/database/blob/main/Python_Client-Http-Db.py)
-- [Python_Server-Http-Db](https://github.com/fondinfo/database/blob/main/Python_Server-Http-Db.py)
+- [Python_Client-Http-GET-DB](https://github.com/fondinfo/database/blob/main/Python_Client-Http-GET-DB.py)
+- [Python_Server-Http-GET-DB](https://github.com/fondinfo/database/blob/main/Python_Server-Http-GET-DB.py)
+- [HTML_Client-Http-GET-DB](https://github.com/fondinfo/database/blob/main/HTML_Client-Http-GET-DB.html)
