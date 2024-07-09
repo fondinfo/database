@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+@author  Alberto Ferrari - https://albertoferrari.github.io/
+@license This software is free - https://opensource.org/license/mit
+"""
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import sqlite3
 import urllib.parse

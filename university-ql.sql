@@ -1,3 +1,8 @@
+/*
+Alberto Ferrari
+Introduzione all'informatica con Python
+*/
+
 -- First name and last name of of students born after the year 2000
 SELECT FirstName, LastName
 FROM Student

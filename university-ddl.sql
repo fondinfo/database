@@ -1,3 +1,7 @@
+/*
+Alberto Ferrari
+Introduzione all'informatica con Python
+*/
 CREATE DATABASE University;
 USE University;
 

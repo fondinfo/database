@@ -1,3 +1,7 @@
+/*
+Alberto Ferrari
+Introduzione all'informatica con Python
+*/
 INSERT INTO Teacher (TeacherID, LastName, FirstName)
 VALUES 	(100, 'Lovelace', 'Ada'),
 		(201, 'Turing', 'Alan'),
